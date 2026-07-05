@@ -1,4 +1,4 @@
-<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/1dd685c9-90d6-43bd-89b5-24583967eb5d" /># 🎬 Movie Recommendation System (Hybrid Recommender)
+# 🎬 Movie Recommendation System (Hybrid Recommender)
 
 A complete end-to-end movie recommendation system combining:
 
