@@ -68,13 +68,6 @@ Built using Python, Pandas, Scikit-learn, and the Implicit library.
 
 ---
 
-## 📦 Installation
-
-```bash
-pip install -r requirements.txt
-
----
-
 ## ▶️ How to Run
 
 python main.py
@@ -98,7 +91,6 @@ src/
  ├── collaborative_model.py
  ├── content_model.py
  ├── hybrid_model.py
- ├── evaluation.py
 
 main.py
 
