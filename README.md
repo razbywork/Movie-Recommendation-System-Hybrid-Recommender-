@@ -1,4 +1,4 @@
-# 🎬 Movie Recommendation System (Hybrid Recommender)
+<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/1dd685c9-90d6-43bd-89b5-24583967eb5d" /># 🎬 Movie Recommendation System (Hybrid Recommender)
 
 A complete end-to-end movie recommendation system combining:
 
@@ -95,6 +95,28 @@ Stand by Me (1986)
 The Lord of the Rings: The Two Towers (2002)
 The Prestige (2006)
 ...
+```
+
+---
+
+## ⬇️ Installation
+
+Clone the repository
+
+```bash
+git clone https://github.com/razbywork/Movie-Recommendation-System-Hybrid-Recommender-.git
+```
+
+Install dependencies
+
+```bash
+pip install -r requirements.txt
+```
+
+Run
+
+```bash
+python main.py
 ```
 
 ---
