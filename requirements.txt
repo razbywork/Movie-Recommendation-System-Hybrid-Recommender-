@@ -1,5 +1,3 @@
-requirements
-
 implicit>=0.7.2
 numpy>=1.24
 pandas>=2.0
