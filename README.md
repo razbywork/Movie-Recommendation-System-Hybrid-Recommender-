@@ -64,35 +64,38 @@ Built using Python, Pandas, Scikit-learn, and the Implicit library.
 - NumPy
 - Scikit-learn
 - SciPy
-- Implicit (ALS)
+- Implicit ALS
+- TF-IDF Vectorization
+- Cosine Similarity
 
 ---
 
-## ▶️ How to Run
+## 📌 Recommendation Pipeline
 
-python main.py
+1. Load MovieLens dataset
+2. Clean and preprocess data
+3. Create User-Item interaction matrix
+4. Train ALS recommendation model
+5. Build TF-IDF movie representation
+6. Compute cosine similarity
+7. Generate content-based recommendations
+8. Combine collaborative and content-based predictions
+9. Generate personalized recommendations
 
 ---
 
-## 📈 Example Output
+## ▶️ Example Output
 
-Top-N movie recommendations per user
-Similar movies based on content
-Hybrid ranked results
-User preference-based suggestions
+```
+Recommendations for User 175325
 
----
-
-## 📌 Project Structure
-
-src/
- ├── data_loader.py
- ├── preprocessing.py
- ├── collaborative_model.py
- ├── content_model.py
- ├── hybrid_model.py
-
-main.py
+Forrest Gump (1994)
+Batman Begins (2005)
+Stand by Me (1986)
+The Lord of the Rings: The Two Towers (2002)
+The Prestige (2006)
+...
+```
 
 ---
 
